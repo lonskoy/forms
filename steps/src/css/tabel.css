@@ -1,0 +1,12 @@
+.tabel {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
